@@ -1,0 +1,5 @@
+# Write a program to swap two numbers without using a third variable (using arithmetic operators)
+n=int(input("Enter a number"))
+m=int(input("Enter a number"))
+print("Before swap: n =", n ,"m =",m)
+print("After swap: n =", m ,"m =",n)
