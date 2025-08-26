@@ -1,6 +1,8 @@
 #looping
-for i in range(1,1000):
-    print("Numbers :",i)
+
+
+# for i in range(1,1000):
+#     print("Numbers :",i)
     
     
 # Fruits =  ["Apple","Mango","Cherry"]
